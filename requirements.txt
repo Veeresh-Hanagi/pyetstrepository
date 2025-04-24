@@ -1,0 +1,6 @@
+selenium
+pytest
+Faker
+webdriver_manager
+openpyxl
+pytest-html
